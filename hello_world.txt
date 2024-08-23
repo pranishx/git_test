@@ -4,3 +4,5 @@ this is my first git file
 i started to learning the odin project
 to improve my coding skills
 wish me luck guys
+this from comic mono font 
+which is i installed earlier 
